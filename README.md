@@ -1,4 +1,4 @@
-maps_toolkit2
+maps_toolkit2 update
 ======
 
 This is a fork of https://github.com/kb0/maps_toolkit. **The goal is to make it compatible with flutter_map**
